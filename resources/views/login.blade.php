@@ -60,7 +60,7 @@
 </head>
 <body>
     <div class="login-card">
-        <h2>Login</h2>
+        <h2>halaman Login</h2>
 
         @if (session('success'))
             <div class="flash-message">{{ session('success') }}</div>
